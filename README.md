@@ -1,3 +1,26 @@
+# Personal Starter Guide
+
+libraries/framework used ->
+1-ReatJs
+2-React Router DOM
+
+# Tech Stack
+
+1-HTML
+2-CSS
+3-JavaScript
+4-ReactJS and etc
+
+# Starting Guideto run the project on local machine
+
+1-Clone or download zip of project from github
+2-npm install
+3-npm start
+
+# Project Discription
+
+We have tried to implement SpaceX api and build a meaning full application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
